@@ -1,7 +1,5 @@
 # Hello everyone 👋
 
-![Cover](./cover.png)
-
 Hi, I’m **Obida** 👨‍💻  
 🎓 Student in **BAC+3 Concepteur Développeur d'Applications**  
 🚀 Future **Full-Stack Developer (BAC+5)**  
