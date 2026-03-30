@@ -1,6 +1,6 @@
 # Hello everyone 👋
 
-Hi, I’m **Obida** 👨‍💻  
+Hi, I’m **Obidah** 👨‍💻  
 🎓 Student in **BAC+3 Concepteur Développeur d'Applications**  
 🚀 Future **Full-Stack Developer (BAC+5)**  
 💡 Passionate about building scalable and modern web applications  
