@@ -32,7 +32,9 @@ A full-stack web application that allows users to **search, publish, and manage 
 👉 Backend: Laravel + PostgreSQL + Redis  
 👉 Infra: Docker + Traefik + Cloudflare  
 
-[🔗 View Repository](https://github.com/ObidahHajjo)  
+[🔗 View Back-end(Api) Repository](https://github.com/ObidahHajjo/covoit-api)  
+[🔗 View Front-end Repository](https://github.com/ObidahHajjo/covoit-front)  
+[🔗 Live Demo](https://covoit.ohajjo.online)  
 
 ![Demo](./covoit.gif)
 
