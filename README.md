@@ -32,7 +32,7 @@ A full-stack web application that allows users to **search, publish, and manage 
 👉 Backend: Laravel + PostgreSQL + Redis  
 👉 Infra: Docker + Traefik + Cloudflare  
 
-[🔗 View Repository](https://github.com/your-username)  
+[🔗 View Repository](https://github.com/ObidahHajjo)  
 
 ![Demo](./covoit.gif)
 
@@ -53,8 +53,8 @@ A management system for a cooperative (**Coop des Vénètes**) to track products
 ## 📫 Contact Me
 
 📧 Email: your@email.com  
-🌐 LinkedIn: https://linkedin.com/in/your-profile  
-💻 GitHub: https://github.com/your-username  
+🌐 LinkedIn: https://linkedin.com/in/obidah-hajjo  
+💻 GitHub: https://github.com/ObidahHajjo 
 
 ---
 
